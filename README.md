@@ -9,17 +9,17 @@
 ### 👨‍💻 About Me
 
 - 🎓 Mechatronics Engineering student at **UVic-UCC**
-- 📍 Currently in my **2nd year**
+- 📍 Currently in my **3rd year**
 - 🤖 Member of the robotics group **Garrins Metàl·lics**
-- 🛠️ Learning and experimenting with **ROS**, **Python**, and **C/C++**
+- 🛠️ Learning and experimenting with **ROS2**(ROS2_control & rclpy)
 
 ---
 
 ### 🚀 Interests & Goals
 
-- Robotics and control systems
-- Simulations
-- Collaborating on open-source robotics projects
+- Mobile robotics and control systems
+- Low-level control
+- Sensor fusion and simulation
 
 ---
 
