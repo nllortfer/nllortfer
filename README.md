@@ -15,8 +15,8 @@
 I am a **Mechatronics Engineering Student** at UVic-UCC with a strong focus on **Mobile Robotics** and **Low-level control**. Currently developing software for competitive robotics.
 
 - 🔭 Member of the UVic-UCC Robotics team **Garrins Metàl·lics**.
-- ⚙️ Passionate about **Low-level Control**, **Firmware**, and **Sensor Fusion**.
-- 🛠️ Daily drivers: **C/C++, Python, ROS2 (rclpy/ros2_control), and Linux**.
+- ⚙️ Passionate about **Deep learnig**, **Low-level Control**, **Firmware**, and **Sensor Fusion**.
+- 🛠️ Most used Languages/Frameworks: **C/C++, Python, ROS2 (rclpy/ros2_control), MuJoCo (mjlab), and Linux**.
 - 🎯 Goal: Solving complex robotics challenges through optimized software.
 
 ---
@@ -29,6 +29,7 @@ I am a **Mechatronics Engineering Student** at UVic-UCC with a strong focus on *
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MuJoCo-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
   
   <br/>
 
@@ -57,6 +58,15 @@ I am a **Mechatronics Engineering Student** at UVic-UCC with a strong focus on *
 > *   **Localization:** State estimation using **ROS2 EKF** and IMU/UWB sensor fusion.
 > *   **Control:** Hardware interface integration using **ros2_control**.
 > *   **Firmware:** Microcontroller programming.
+<a href="https://github.com/nllortfer/imu_hw_interface"><img src="https://img.shields.io/badge/Repo-Localization-blue?style=flat-square&logo=github"/></a>
+<a href="https://github.com/nllortfer/arduino_teensy_four_wheels"><img src="https://img.shields.io/badge/Repo-Firmware-blue?style=flat-square&logo=github"/></a>
+
+#### 🐕 **Integrated Project II | Software Engineer**
+> Robotics project: Quadruped robot trained with reinforcement learning environments
+> *  **Reinforcement learning**: Training models with Actor-Critic architecture.
+> *  **Firmware**: WiFi communication with ROS2 nodes through Zenoh-DDS bridge.
+<a href="https://github.com/Integrated-Project-2-2026-UVic-UCC/Team1/tree/experimental_control/Software/control/ip2_quadruped_robot_velocity"><img src="https://img.shields.io/badge/Repo-Mjlab-blue?style=flat-square&logo=github"/></a>
+<a href="https://github.com/Integrated-Project-2-2026-UVic-UCC/Team1/tree/fimrware/Software/firmware/embedded-leg-ctrl"><img src="https://img.shields.io/badge/Repo-Firmware-blue?style=flat-square&logo=github"/></a>
 
 #### 🏢 **Girbau S.A. | Trainee R&D**
 > *   Developing firmware logic and TUIs in **C** for industrial machinery.
